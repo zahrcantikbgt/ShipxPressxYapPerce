@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="32" cy="32" r="30" fill="#FAB12F" stroke="#E8A01F" stroke-width="2"/>
+  
+  <!-- Ship/Container -->
+  <rect x="12" y="28" width="40" height="20" rx="3" fill="white"/>
+  <rect x="16" y="32" width="32" height="12" rx="2" fill="#FAB12F"/>
+  
+  <!-- Waves below ship -->
+  <path d="M8 50 Q16 46 24 50 T40 50 T56 50" stroke="white" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  
+  <!-- Letter S (ShipXpress) -->
+  <path d="M22 18 Q18 22 22 26 Q26 30 22 34 Q18 38 22 42" stroke="white" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Letter X (ShipXpress) -->
+  <path d="M30 18 L38 26 M38 18 L30 26" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M30 34 L38 42 M38 34 L30 42" stroke="white" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
